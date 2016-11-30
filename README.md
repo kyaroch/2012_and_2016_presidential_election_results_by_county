@@ -63,8 +63,8 @@ using data from 2012.
 yet checked to see whether the 2012 totals include these votes.
 * 2016 NH totals do not include write-ins, as these have not been reported yet,
 although the numbers are probably negligible anyway.
-* Results for NH and VT are officially reported by town, not county. I've
-manually entered county-by-county information.
+* Results for New England are officially reported by town, not county. I had to
+manually enter county-by-county information for some of these states.
 
 ## Acknowledgements
 
