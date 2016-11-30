@@ -42,8 +42,9 @@ include all candidates.
 * I had to enter some of this information manually. I ran some basic sanity
 checks and corrected the errors I found, but I can't guarantee that the data is
 completely free of mistakes.
-* The *Guardian* data does not list individual boroughs in Alaska. I'll
-eventually fix this but have not yet done so.
+* The *Guardian* data does not list individual boroughs in Alaska. Alaska
+officially reports vote totals by state house district, not borough. I do not
+yet know where to find vote totals by borough.
 
 ## Todo
 
