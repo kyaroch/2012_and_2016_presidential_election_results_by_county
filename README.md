@@ -27,9 +27,9 @@ did not happen. For this reason, I won't be adding states to this table until
 they certify their results.
 
 As of November 30, 2016, certified results for the following states (plus DC)
-have been compiled: AL, AR, CT, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OK, RI, SC, TX, UT, VT, VA, WY
+have been compiled: AL, AR, CT, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OH, OK, RI, SC, TX, UT, VT, VA, WY
 
-Results for the following states are available, but have not been compiled: [none currently]
+Results for the following states are available, but have not been compiled: AK, KS
 
 The `maps` directory contains some SVG maps created in QGIS, which I will also
 update.
@@ -41,9 +41,9 @@ listed. Since each state had different third-party candidates on the ballot,
 and tabulated the results differently, tracking them individually would have
 taken additional time that I chose not to invest. However, the vote totals do
 include all candidates.
-* I had to enter some of this information manually. I ran some basic sanity
-checks and corrected the errors I found, but I can't guarantee that the data is
-completely free of mistakes.
+* I had to enter some of this information manually or using ad hoc scripts.. I
+ran some basic sanity checks and corrected the errors I found, but I can't
+guarantee that the data is completely free of mistakes.
 * The *Guardian* data does not list individual boroughs in Alaska. Alaska
 officially reports vote totals by state house district, not borough. I do not
 yet know where to find vote totals by borough.
