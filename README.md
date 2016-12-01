@@ -26,8 +26,10 @@ you may remember, for example, that much of the commentary immediately after the
 did not happen. For this reason, I won't be adding states to this table until
 they certify their results.
 
-As of November 30, 2016, certified results are available for the following
-states (plus DC): AR, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OK, SC, UT, VT, VA, WY
+As of November 30, 2016, certified results for the following states (plus DC)
+have been compiled: AR, CT, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OK, SC, UT, VT, VA, WY
+
+Results for the following states are available, but have not been compiled: AL, RI
 
 The `maps` directory contains some SVG maps created in QGIS, which I will also
 update.
