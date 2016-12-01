@@ -27,9 +27,9 @@ did not happen. For this reason, I won't be adding states to this table until
 they certify their results.
 
 As of November 30, 2016, certified results for the following states (plus DC)
-have been compiled: AR, CT, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OK, RI, SC, UT, VT, VA, WY
+have been compiled: AL, AR, CT, DE, FL, GA, HI, KY, LA, MI, ND, NH, NM, NV, OK, RI, SC, UT, VT, VA, WY
 
-Results for the following states are available, but have not been compiled: AL
+Results for the following states are available, but have not been compiled: [none currently]
 
 The `maps` directory contains some SVG maps created in QGIS, which I will also
 update.
