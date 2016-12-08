@@ -1,5 +1,4 @@
 state_postal_abbrev,county_number,fips_code,county_name,2012_total_votes,obama_votes,romney_votes,obama_percent,romney_percent,obama_two_party_margin,2016_total_votes,clinton_votes,trump_votes,clinton_percent,trump_percent,clinton_two_party_margin,2012_2016_margin_change
-AK,2001,2000,Alaska,220596,91696,121234,0.4157,0.5496,-0.1387,,,,,,,
 AL,1001,1001,Autauga,23909,6354,17366,0.2658,0.7263,-0.4642,24973,5936,18172,0.2377,0.7277,-0.5075,-0.0433
 AL,1002,1003,Baldwin,84988,18329,65772,0.2157,0.7739,-0.5641,95215,18458,72883,0.1939,0.7655,-0.5958,-0.0317
 AL,1003,1005,Barbour,11459,5873,5539,0.5125,0.4834,0.0293,10469,4871,5454,0.4653,0.5210,-0.0565,-0.0858
