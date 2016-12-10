@@ -27,7 +27,7 @@ did not happen. For this reason, I won't be adding states to this table until
 they certify their results.
 
 Certified results for the following states (plus DC)
-have been compiled: AL, AR, AZ, CO, CT, DE, FL, GA, IA, ID, IL, HI, KS, KY, LA, MI, MN, MT, ND, NE, NH, NJ, NM, NV, OH, OK, OR, RI, SC, TX, UT, VT, VA, WA, WI, WY
+have been compiled: AL, AR, AZ, CO, CT, DE, FL, GA, IA, ID, IL, HI, KS, KY, LA, MD, MI, MN, MT, ND, NE, NH, NJ, NM, NV, OH, OK, OR, RI, SC, TX, UT, VT, VA, WA, WI, WY
 
 Results for the following states have been certified, but have not been compiled: AK, MA
 
