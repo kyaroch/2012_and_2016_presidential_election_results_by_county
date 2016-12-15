@@ -33,8 +33,8 @@ certify.
 
 State certification status is listed in `state_results_status.csv`
 
-Results for AK, MA, and ME have not been compiled, because county-level results
-are not yet available for those states.
+Results for Alaska have not been compiled, as I do not have access to borough-level
+results.
 
 The `maps` directory contains some SVG maps created in QGIS, which I will also
 update.
