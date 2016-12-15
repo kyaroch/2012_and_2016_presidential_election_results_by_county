@@ -1,4 +1,4 @@
-state,alpha_code,fips_code,2016_results_official,2016_results_compiled
+state,alpha+AF8-code,fips+AF8-code,2016+AF8-results+AF8-official,2016+AF8-results+AF8-compiled
 Alabama,AL,1,1,1
 Alaska,AK,2,1,0
 Arizona,AZ,4,1,1
@@ -18,20 +18,20 @@ Iowa,IA,19,1,1
 Kansas,KS,20,1,1
 Kentucky,KY,21,1,1
 Louisiana,LA,22,1,1
-Maine,ME,23,0,0
+Maine,ME,23,1,1
 Maryland,MD,24,1,1
 Massachusetts,MA,25,1,0
 Michigan,MI,26,1,1
 Minnesota,MN,27,1,1
-Mississippi,MS,28,0,1
-Missouri,MO,29,0,1
+Mississippi,MS,28,1,1
+Missouri,MO,29,1,1
 Montana,MT,30,1,1
 Nebraska,NE,31,1,1
 Nevada,NV,32,1,1
 New Hampshire,NH,33,1,1
 New Jersey,NJ,34,1,1
 New Mexico,NM,35,1,1
-New York,NY,36,0,1
+New York,NY,36,1,1
 North Carolina,NC,37,0,1
 North Dakota,ND,38,1,1
 Ohio,OH,39,1,1
@@ -40,8 +40,8 @@ Oregon,OR,41,1,1
 Pennsylvania,PA,42,0,1
 Rhode Island,RI,44,1,1
 South Carolina,SC,45,1,1
-South Dakota,SD,46,0,1
-Tennessee,TN,47,0,1
+South Dakota,SD,46,1,1
+Tennessee,TN,47,1,1
 Texas,TX,48,1,1
 Utah,UT,49,1,1
 Vermont,VT,50,1,1
